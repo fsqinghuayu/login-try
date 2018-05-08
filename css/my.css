@@ -1,0 +1,29 @@
+.m {
+	font-family: "ËÎÌו";
+	font-size: 16px;
+	font-weight: bold;
+}
+        .show_div{  
+            width: 500px;  
+            height: 200px;
+			position:relative;
+	        margin: 0 auto; 
+            border: 2px solid block;  
+            overflow: hidden;  
+        }  
+        .scroll_div{  
+            width: 2000px;  
+            height: 300px;  
+        }  
+  
+        .scroll_div img{  
+            width: 320px;  
+            height:250px;  
+            float: left;  
+        } 
+        #ccc a:link{
+		color:#000099;
+		margin-right:auto;
+		}
+		.t{font-size:18px;}
+		
